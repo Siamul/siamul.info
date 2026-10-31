@@ -1,0 +1,416 @@
+{
+  "author": {
+    "name": "Siamul Karim Khan",
+    "user_id": "4m76wqsAAAAJ",
+    "affiliation": "Software Engineer at Google | Ph.D. University of Notre Dame",
+    "scholar_url": "https://scholar.google.com/citations?user=4m76wqsAAAAJ",
+    "updated_at": "2026-10-31T07:04:45.758419+00:00"
+  },
+  "metrics": {
+    "citations": 121,
+    "h_index": 5,
+    "i10_index": 4,
+    "total_publications": 13
+  },
+  "publications": [
+    {
+      "id": "KlAtU1dfN6UC",
+      "title": "Lowering the Barrier to IREX Participation: Open-Source Algorithms, Toolkit, and Benchmarking for Iris Recognition",
+      "authors": [
+        "Siamul Karim Khan",
+        "Patrick J. Flynn",
+        "Adam Czajka"
+      ],
+      "venue": "arXiv preprint arXiv:2605.20735 / Under revision at IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)",
+      "venue_short": "arXiv:2605.20735 / IEEE T-BIOM",
+      "year": 2026,
+      "date": "2026-05-01",
+      "type": "preprint",
+      "category": "Preprint & Software Repository",
+      "citations": 2,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:KlAtU1dfN6UC",
+      "doi_url": "https://arxiv.org/abs/2605.20735",
+      "pdf_url": "https://arxiv.org/pdf/2605.20735",
+      "abstract": "IREX (Iris Exchange) evaluation programs present steep engineering barriers because academic algorithms must be compliant with strict C++ APIs and runtime constraints. We provide the first comprehensive, IREX X-compliant open-source ecosystem, open-source ArcIris and TripletIris baseline matchers, newly trained segmentation models, and standardized benchmarks across eight diverse datasets.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:KlAtU1dfN6UC",
+        "pdf": "https://arxiv.org/pdf/2605.20735",
+        "arxiv": "https://arxiv.org/abs/2605.20735",
+        "doi": "https://arxiv.org/abs/2605.20735"
+      },
+      "type_display": "Preprint"
+    },
+    {
+      "id": "ULOm3_A8WrAC",
+      "title": "Is There Evidence of Gender Bias in Iris Presentation Attack Detection Approaches?",
+      "authors": [
+        "Mahsa Mitcheff",
+        "Siamul Karim Khan",
+        "Patrick J. Flynn",
+        "Kevin W. Bowyer",
+        "Adam Czajka"
+      ],
+      "venue": "IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)",
+      "venue_short": "IEEE T-BIOM 2026",
+      "year": 2026,
+      "date": "2026-03-01",
+      "type": "journal",
+      "category": "Journal Article",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:ULOm3_A8WrAC",
+      "doi_url": "https://ieeexplore.ieee.org/abstract/document/11614531/",
+      "pdf_url": "https://ieeexplore.ieee.org/abstract/document/11614531/",
+      "abstract": "Biometric fairness and demographic neutrality are imperative for deployed security systems. This study investigates whether modern deep learning and hand-crafted iris presentation attack detection (PAD) algorithms exhibit disparate error rates across male and female demographic groups.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:ULOm3_A8WrAC",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/11614531/",
+        "doi": "https://ieeexplore.ieee.org/abstract/document/11614531/"
+      },
+      "type_display": "Journal"
+    },
+    {
+      "id": "Se3iqnhoufwC",
+      "title": "EyePreserve: Identity-preserving iris synthesis",
+      "authors": [
+        "Siamul Karim Khan",
+        "Patrick Tinsley",
+        "Mahsa Mitcheff",
+        "Patrick J. Flynn",
+        "Kevin W. Bowyer",
+        "Adam Czajka"
+      ],
+      "venue": "IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)",
+      "venue_short": "IEEE T-BIOM 2026",
+      "year": 2026,
+      "date": "2026-02-01",
+      "type": "journal",
+      "category": "Journal Article",
+      "citations": 8,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:Se3iqnhoufwC",
+      "doi_url": "https://ieeexplore.ieee.org/abstract/document/11614808/",
+      "pdf_url": "https://arxiv.org/pdf/2312.12028",
+      "abstract": "Synthetic biometric generation faces the critical challenge of identity preservation across multiple intra-class acquisitions. We present EyePreserve, an identity-preserving iris synthesis framework leveraging generative adversarial networks and diffusion models to produce high-fidelity synthetic eye images with controllable pupil dynamics, illumination variations, and consistent iris identity templates.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:Se3iqnhoufwC",
+        "pdf": "https://arxiv.org/pdf/2312.12028",
+        "arxiv": "https://arxiv.org/pdf/2312.12028",
+        "doi": "https://ieeexplore.ieee.org/abstract/document/11614808/"
+      },
+      "type_display": "Journal"
+    },
+    {
+      "id": "hqOjcs7Dif8C",
+      "title": "Gradient-Guided Exploration of Generative Model's Latent Space for Controlled Iris Image Augmentations",
+      "authors": [
+        "Mahsa Mitcheff",
+        "Siamul Karim Khan",
+        "Adam Czajka"
+      ],
+      "venue": "arXiv preprint arXiv:2511.09749",
+      "venue_short": "arXiv:2511.09749",
+      "year": 2025,
+      "date": "2025-11-15",
+      "type": "preprint",
+      "category": "Preprint & Software Repository",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:hqOjcs7Dif8C",
+      "doi_url": "https://arxiv.org/abs/2511.09749",
+      "pdf_url": "https://arxiv.org/pdf/2511.09749",
+      "abstract": "Training robust iris recognition models requires extensive data diversity. We propose a gradient-guided latent space exploration method that systematically perturbs generative latent vectors to synthesize controlled variations in pupil size, occlusion, and lighting while strictly preserving subject biometric identity.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:hqOjcs7Dif8C",
+        "pdf": "https://arxiv.org/pdf/2511.09749",
+        "arxiv": "https://arxiv.org/abs/2511.09749",
+        "doi": "https://arxiv.org/abs/2511.09749"
+      },
+      "type_display": "Preprint"
+    },
+    {
+      "id": "0EnyYjriUFMC",
+      "title": "Iris Liveness Detection Competition (LivDet-Iris) – The 2025 Edition",
+      "authors": [
+        "Mahsa Mitcheff",
+        "A. Hossain",
+        "S. Webster",
+        "Siamul Karim Khan",
+        "K. Roszczewska",
+        "J. E. Tapia",
+        "F. Stockhardt",
+        "L. J. Gonzalez-Soler",
+        "J. Y. Lim",
+        "M. Pollock",
+        "et al."
+      ],
+      "venue": "2025 IEEE International Joint Conference on Biometrics (IJCB)",
+      "venue_short": "IEEE IJCB 2025",
+      "year": 2025,
+      "date": "2025-09-15",
+      "type": "conference",
+      "category": "Conference Paper",
+      "citations": 4,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:0EnyYjriUFMC",
+      "doi_url": "https://ieeexplore.ieee.org/abstract/document/11411572/",
+      "pdf_url": "https://ieeexplore.ieee.org/abstract/document/11411572/",
+      "abstract": "LivDet-Iris 2025 evaluates state-of-the-art iris presentation attack detection (PAD) algorithms against sophisticated physical and digital attack vectors, including textured contact lenses, prosthetic eyes, printed artifacts, and generative deepfake syntheses across multiple sequestered test datasets.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:0EnyYjriUFMC",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/11411572/",
+        "doi": "https://ieeexplore.ieee.org/abstract/document/11411572/"
+      },
+      "type_display": "Conference"
+    },
+    {
+      "id": "Zph67rFs4hoC",
+      "title": "University of Notre Dame Open Source Iris Recognition Repository",
+      "authors": [
+        "Adam Czajka",
+        "Siamul Karim Khan",
+        "Mateusz Trokielewicz",
+        "Patrick J. Flynn"
+      ],
+      "venue": "Notre Dame Computer Vision Research Laboratory (CVRL)",
+      "venue_short": "CVRL Software Repository 2025",
+      "year": 2025,
+      "date": "2025-01-01",
+      "type": "repository",
+      "category": "Preprint & Software Repository",
+      "citations": 3,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:Zph67rFs4hoC",
+      "doi_url": "https://scholar.google.com/scholar?cluster=9478733729116970152",
+      "pdf_url": "https://cvrl.nd.edu/",
+      "abstract": "An official open-source repository establishing standardized baseline algorithms, feature extractors, segmentation networks, and reproducibility benchmarks for contemporary iris biometrics research.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:Zph67rFs4hoC",
+        "pdf": "https://cvrl.nd.edu/",
+        "doi": "https://scholar.google.com/scholar?cluster=9478733729116970152"
+      },
+      "type_display": "Repository"
+    },
+    {
+      "id": "UebtZRa9Y70C",
+      "title": "Liveness detection",
+      "authors": [
+        "Jeremy Speth",
+        "Nathan Carpenter",
+        "Nathan Vance",
+        "Lu Niu",
+        "Siamul Karim Khan",
+        "Adam Czajka",
+        "Patrick Flynn"
+      ],
+      "venue": "U.S. Patent Application 18/625,685 (Publication No. US 2024/0334008 A1)",
+      "venue_short": "US Patent App. 18/625,685",
+      "year": 2024,
+      "date": "2024-10-03",
+      "type": "patent",
+      "category": "Pending Patent",
+      "citations": 1,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:UebtZRa9Y70C",
+      "doi_url": "https://patents.google.com/patent/US20240334008A1/en",
+      "pdf_url": "https://patents.google.com/patent/US20240334008A1/en",
+      "abstract": "Methods, apparatus, and non-transitory computer readable media for biometric liveness detection and presentation attack mitigation via spatial-temporal feature decomposition and optical reflectance analysis.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:UebtZRa9Y70C",
+        "pdf": "https://patents.google.com/patent/US20240334008A1/en",
+        "doi": "https://patents.google.com/patent/US20240334008A1/en",
+        "patent": "https://patents.google.com/patent/US20240334008A1/en"
+      },
+      "type_display": "Pending Patent"
+    },
+    {
+      "id": "8k81kl-MbHgC",
+      "title": "Deception detection",
+      "authors": [
+        "Nathan Vance",
+        "Jeremy Speth",
+        "Siamul Karim Khan",
+        "Adam Czajka",
+        "Kevin W. Bowyer",
+        "Diane Wright",
+        "Patrick Flynn",
+        "Nathan Carpenter",
+        "Leandro Olie"
+      ],
+      "venue": "U.S. Patent Application 18/115,414 (Publication No. US 2023/0274582 A1)",
+      "venue_short": "US Patent App. 18/115,414",
+      "year": 2023,
+      "date": "2023-08-31",
+      "type": "patent",
+      "category": "Pending Patent",
+      "citations": 5,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:8k81kl-MbHgC",
+      "doi_url": "https://patents.google.com/patent/US20230274582A1/en",
+      "pdf_url": "https://patents.google.com/patent/US20230274582A1/en",
+      "abstract": "Systems, methods, and computer-readable media for automated, remote non-contact deception detection utilizing multimodal computer vision frameworks, facial micro-movement analysis, and remote physiological signal extraction from video streams.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:8k81kl-MbHgC",
+        "pdf": "https://patents.google.com/patent/US20230274582A1/en",
+        "doi": "https://patents.google.com/patent/US20230274582A1/en",
+        "patent": "https://patents.google.com/patent/US20230274582A1/en"
+      },
+      "type_display": "Pending Patent"
+    },
+    {
+      "id": "Tyk-4Ss8FVUC",
+      "title": "DeformIrisNet: An Identity-Preserving Model of Iris Texture Deformation",
+      "authors": [
+        "Siamul Karim Khan",
+        "Patrick Tinsley",
+        "Adam Czajka"
+      ],
+      "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+      "venue_short": "IEEE/CVF WACV 2023",
+      "year": 2023,
+      "date": "2023-01-05",
+      "pages": "2861-2870",
+      "type": "conference",
+      "category": "Conference Paper",
+      "citations": 17,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:Tyk-4Ss8FVUC",
+      "doi_url": "https://ieeexplore.ieee.org/document/10030175",
+      "pdf_url": "https://openaccess.thecvf.com/content/WACV2023/papers/Khan_DeformIrisNet_An_Identity-Preserving_Model_of_Iris_Texture_Deformation_WACV_2023_paper.pdf",
+      "code_url": "https://github.com/CVRL/DeformIrisNet",
+      "abstract": "Pupil dilation and constriction induce non-linear, non-elastic deformations in human iris textures, degrading biometric recognition accuracy. We propose DeformIrisNet, a deep learning architecture that directly models pupil-dynamics-induced iris texture deformations while strictly preserving biometric identity. DeformIrisNet outperforms classical rubber-sheet linear normalization models across multiple benchmark datasets.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:Tyk-4Ss8FVUC",
+        "pdf": "https://openaccess.thecvf.com/content/WACV2023/papers/Khan_DeformIrisNet_An_Identity-Preserving_Model_of_Iris_Texture_Deformation_WACV_2023_paper.pdf",
+        "doi": "https://ieeexplore.ieee.org/document/10030175",
+        "code": "https://github.com/CVRL/DeformIrisNet"
+      },
+      "type_display": "Conference"
+    },
+    {
+      "id": "ufrVoPGSRksC",
+      "title": "Deception Detection and Remote Physiological Monitoring: A Dataset and Baseline Experimental Results",
+      "authors": [
+        "Nathan Vance",
+        "Jeremy Speth",
+        "Siamul Karim Khan",
+        "Adam Czajka",
+        "Kevin W. Bowyer",
+        "Diane Wright",
+        "Patrick Flynn"
+      ],
+      "venue": "IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)",
+      "venue_short": "IEEE T-BIOM 2022",
+      "year": 2022,
+      "date": "2022-10-01",
+      "volume": "4",
+      "issue": "4",
+      "pages": "497-509",
+      "type": "journal",
+      "category": "Journal Article",
+      "citations": 25,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:ufrVoPGSRksC",
+      "doi_url": "https://ieeexplore.ieee.org/document/9936698",
+      "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9936698",
+      "abstract": "Automated deception detection from video streams is a challenging problem with significant security and legal applications. We present a novel, publicly available multimodal dataset for deception detection comprising synchronized high-resolution video and physiological monitoring signals. We establish baseline experimental results demonstrating the utility of remote photoplethysmography (rPPG) and facial action units for deception prediction.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:ufrVoPGSRksC",
+        "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9936698",
+        "doi": "https://ieeexplore.ieee.org/document/9936698"
+      },
+      "type_display": "Journal"
+    },
+    {
+      "id": "zYLM7Y9cAGgC",
+      "title": "PhotoStylist: Altering the Style of Photos Based on the Connotations of Texts",
+      "authors": [
+        "Siamul Karim Khan",
+        "Daniel (Yue) Zhang",
+        "Ziyi Kou",
+        "Yang Zhang",
+        "Dong Wang"
+      ],
+      "venue": "Advances in Knowledge Discovery and Data Mining (PAKDD 2021), LNCS vol 12712, Springer",
+      "venue_short": "PAKDD 2021 (Springer)",
+      "year": 2021,
+      "date": "2021-05-11",
+      "pages": "642-654",
+      "type": "conference",
+      "category": "Conference Paper",
+      "citations": 1,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:zYLM7Y9cAGgC",
+      "doi_url": "https://link.springer.com/chapter/10.1007/978-3-030-75762-5_51",
+      "pdf_url": "https://drive.google.com/file/d/1NNqKzEZMUQd7JoTXCUNEKUhfGFq6pCq2/view?usp=sharing",
+      "code_url": "https://github.com/Siamul/PhotoStylist",
+      "abstract": "Conveying abstract emotional connotations through visual photography is challenging. We introduce PhotoStylist, a cross-modal deep learning framework that alters the photographic style (color tones, lighting, contrast) of target images based on the connotation of accompanying textual captions.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:zYLM7Y9cAGgC",
+        "pdf": "https://drive.google.com/file/d/1NNqKzEZMUQd7JoTXCUNEKUhfGFq6pCq2/view?usp=sharing",
+        "doi": "https://link.springer.com/chapter/10.1007/978-3-030-75762-5_51",
+        "code": "https://github.com/Siamul/PhotoStylist"
+      },
+      "type_display": "Conference"
+    },
+    {
+      "id": "2osOgNQ5qMEC",
+      "title": "CaMR: Towards Connotation-aware Music Retrieval on Social Media with Visual Inputs",
+      "authors": [
+        "Lanyu Shang",
+        "Daniel (Yue) Zhang",
+        "Siamul Karim Khan",
+        "Jialie Shen",
+        "Dong Wang"
+      ],
+      "venue": "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
+      "venue_short": "IEEE/ACM ASONAM 2020",
+      "year": 2020,
+      "date": "2020-12-07",
+      "pages": "425-432",
+      "type": "conference",
+      "category": "Conference Paper",
+      "citations": 11,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:2osOgNQ5qMEC",
+      "doi_url": "https://ieeexplore.ieee.org/document/9381371",
+      "pdf_url": "https://web.ntpu.edu.tw/~myday/doc/ASONAM2020/ASONAM2020_Proceedings/pdf/papers/067_030_425.pdf",
+      "abstract": "Background music selection for user-generated multimedia posts on social media requires understanding subtle emotional connotations beyond literal visual objects. We present CaMR, a connotation-aware music retrieval model that maps visual semantics and latent affective signals to relevant musical acoustic features, significantly outperforming traditional content-based retrieval baselines.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:2osOgNQ5qMEC",
+        "pdf": "https://web.ntpu.edu.tw/~myday/doc/ASONAM2020/ASONAM2020_Proceedings/pdf/papers/067_030_425.pdf",
+        "doi": "https://ieeexplore.ieee.org/document/9381371"
+      },
+      "type_display": "Conference"
+    },
+    {
+      "id": "u5HHmVD_uO8C",
+      "title": "A CNN-based approach to classify cricket bowlers based on their bowling actions",
+      "authors": [
+        "Md. Nazmul Ahsan Islam",
+        "Tariqul Bashar Hassan",
+        "Siamul Karim Khan"
+      ],
+      "venue": "2019 International Conference on Signal Processing, Information, Communication & Systems (SPICSCON)",
+      "venue_short": "SPICSCON 2019",
+      "year": 2019,
+      "date": "2019-11-28",
+      "type": "conference",
+      "category": "Conference Paper",
+      "citations": 44,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:u5HHmVD_uO8C",
+      "doi_url": "https://ieeexplore.ieee.org/abstract/document/9065090/",
+      "pdf_url": "https://arxiv.org/pdf/1909.01228",
+      "abstract": "Cricket bowling action classification is a critical component for automated sports analytics, broadcast enhancement, and biomechanical legality assessment. This paper presents a convolutional neural network (CNN) framework using transfer learning on pre-trained deep architectures (including VGG16) to accurately classify bowlers based on sequential video frames and kinematic delivery actions.",
+      "highlight_author": "Siamul Karim Khan",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=4m76wqsAAAAJ&citation_for_view=4m76wqsAAAAJ:u5HHmVD_uO8C",
+        "pdf": "https://arxiv.org/pdf/1909.01228",
+        "arxiv": "https://arxiv.org/pdf/1909.01228",
+        "doi": "https://ieeexplore.ieee.org/abstract/document/9065090/"
+      },
+      "type_display": "Conference"
+    }
+  ]
+}

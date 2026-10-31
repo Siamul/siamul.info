@@ -1,0 +1,330 @@
+{
+  "name": "Siamul Karim Khan",
+  "title": "Software Engineer at Google (Ads Integrity) | Ph.D. in CSE",
+  "bio_greeting": "Hello! I am Siamul Karim Khan.",
+  "bio_paragraphs": [
+    "I am currently a Software Engineer at Google, working in the Ads Integrity team.",
+    "I completed my PhD in Computer Science and Engineering (CSE) at the University of Notre Dame, where I worked as a member of the Notre Dame Computer Vision Research Laboratory under the mentorship of Prof. Adam Czajka.",
+    "My research focuses on designing and applying deep learning models to improve iris biometrics.",
+    "I interned at Meta during the summers of 2024 and 2025.",
+    "I have completed my B.Sc. in CSE from Bangladesh University of Engineering and Technology (BUET).",
+    "You can browse this website to learn more about me."
+  ],
+  "full_bio": "Hello! I am Siamul Karim Khan. I am currently a Software Engineer at Google, working in the Ads Integrity team. I completed my PhD in Computer Science and Engineering (CSE) at the University of Notre Dame, where I worked as a member of the Notre Dame Computer Vision Research Laboratory under the mentorship of Prof. Adam Czajka. My research focuses on designing and applying deep learning models to improve iris biometrics. I interned at Meta during the summers of 2024 and 2025. I have completed my B.Sc. in CSE from Bangladesh University of Engineering and Technology (BUET). You can browse this website to learn more about me.",
+  "avatar": "assets/img/avatar.jpg",
+  "avatar_caption": "Me @ Himchori, Cox's Bazar, Bangladesh",
+  "favicon": "assets/img/favicon.png",
+  "roles": [
+    {
+      "title": "Software Engineer",
+      "company": "Google",
+      "team": "Ads Integrity",
+      "current": true,
+      "period": "Current",
+      "url": "https://www.google.com"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Meta",
+      "terms": [
+        "Summer 2024",
+        "Summer 2025"
+      ],
+      "period": "Summer 2024, Summer 2025",
+      "current": false,
+      "url": "https://www.meta.com"
+    }
+  ],
+  "contact": {
+    "emails": [
+      "siamulkarim@gmail.com"
+    ],
+    "primary_email": "siamulkarim@gmail.com",
+    "personal_email": "siamulkarim@gmail.com",
+    "location": "Mountain View, CA / South Bend, IN",
+    "links": {
+      "github": "https://github.com/Siamul",
+      "linkedin": "https://www.linkedin.com/in/siamul/",
+      "google_scholar": "https://scholar.google.com/citations?user=4m76wqsAAAAJ",
+      "orcid": "https://orcid.org/0000-0001-5691-8599",
+      "web_of_science": "https://www.webofscience.com/wos/author/record/JQJ-5066-2023",
+      "youtube": "https://www.youtube.com/channel/UClZJDQrYQcLBGUeK6Anq2uA",
+      "soundcloud": "https://soundcloud.com/siamul-karim-khan"
+    }
+  },
+  "education": [
+    {
+      "id": "notre-dame-phd",
+      "degree": "Ph.D. in Computer Science and Engineering",
+      "institution": "University of Notre Dame",
+      "institution_url": "https://cse.nd.edu/",
+      "lab": "Notre Dame Computer Vision Research Laboratory (CVRL)",
+      "lab_url": "https://cvrl.nd.edu/",
+      "advisor": "Dr. Adam Czajka",
+      "advisor_url": "https://www.adamczajka.com/cv/full.pdf",
+      "topic": "Deep Learning for Iris Biometrics",
+      "logo": "assets/img/nd_logo.png",
+      "description": "Dissertation research centered on designing identity-preserving synthetic iris generative models, non-linear texture deformation architectures, and presentation attack detection under the mentorship of Prof. Adam Czajka."
+    },
+    {
+      "id": "buet-bsc",
+      "degree": "B.Sc. (Engg.) in Computer Science and Engineering",
+      "graduation_date": "February 2017",
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "institution_url": "https://cse.buet.ac.bd/",
+      "logo": "assets/img/buet_logo.png",
+      "description": "Graduated with honors, Dean's List (2nd and 4th Year). Completed undergraduate thesis on Pragmatic PPCA under Dr. Muhammad Abdullah Adnan."
+    }
+  ],
+  "research": {
+    "interests": [
+      "Deep Learning",
+      "Computer Vision",
+      "Biometrics",
+      "Generative Models",
+      "Presentation Attack Detection"
+    ],
+    "scholar": {
+      "user_id": "4m76wqsAAAAJ",
+      "profile_url": "https://scholar.google.com/citations?user=4m76wqsAAAAJ",
+      "total_citations": 121,
+      "h_index": 6,
+      "i10_index": 4
+    },
+    "thesis": {
+      "title": "Pragmatic PPCA: A Practical Solution for PPCA on Big Data",
+      "degree": "Undergraduate Thesis",
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "supervisor": "Dr. Muhammad Abdullah Adnan",
+      "supervisor_url": "https://sites.google.com/site/abdullahadnan/",
+      "download_url": "https://drive.google.com/file/d/1ofzLpRUeBBtDUkCFamcheDWbETxeLXJ3/view?usp=sharing"
+    }
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Programming / Scripting Languages",
+        "key": "languages",
+        "items": [
+          "C/C++",
+          "Python",
+          "MATLAB/Octave",
+          "BASH (Linux Scripting)",
+          "Java",
+          "C#",
+          "Assembly (x86) / MIPS",
+          "SQL, PL/SQL"
+        ]
+      },
+      {
+        "name": "Libraries / Frameworks",
+        "key": "frameworks",
+        "items": [
+          "Pytorch (Python, C/C++)",
+          "Libtorch (C/C++)",
+          "Tensorflow (Python)",
+          "Keras (Python)",
+          "OpenCV (Python, C/C++)",
+          "Darknet (C/C++)",
+          "imgaug (Python)",
+          "Scikit-learn (Python)",
+          "Pandas (Python)",
+          "WEKA (Java)",
+          "Jblas (Java)"
+        ]
+      },
+      {
+        "name": "Databases",
+        "key": "databases",
+        "items": [
+          "Oracle",
+          "MySQL"
+        ]
+      },
+      {
+        "name": "Embedded Systems",
+        "key": "embedded",
+        "items": [
+          "ATMEGA32",
+          "Arduino"
+        ]
+      },
+      {
+        "name": "Other Tools",
+        "key": "tools",
+        "items": [
+          "Lex/Flex",
+          "Yacc/Bison",
+          "Network Simulator 2 (ns2)",
+          "Proteus",
+          "CISCO Packet Tracer",
+          "Construct 2",
+          "Webflow",
+          "LaTeX"
+        ]
+      }
+    ],
+    "all_skills_flat": [
+      "C/C++",
+      "Python",
+      "MATLAB/Octave",
+      "BASH (Linux Scripting)",
+      "Java",
+      "C#",
+      "Assembly (x86) / MIPS",
+      "SQL, PL/SQL",
+      "Pytorch (Python, C/C++)",
+      "Libtorch (C/C++)",
+      "Tensorflow (Python)",
+      "Keras (Python)",
+      "OpenCV (Python, C/C++)",
+      "Darknet (C/C++)",
+      "imgaug (Python)",
+      "Scikit-learn (Python)",
+      "Pandas (Python)",
+      "WEKA (Java)",
+      "Jblas (Java)",
+      "Oracle",
+      "MySQL",
+      "ATMEGA32",
+      "Arduino",
+      "Lex/Flex",
+      "Yacc/Bison",
+      "Network Simulator 2 (ns2)",
+      "Proteus",
+      "CISCO Packet Tracer",
+      "Construct 2",
+      "Webflow",
+      "LaTeX"
+    ]
+  },
+  "awards": [
+    {
+      "title": "CSE Select Fellowship",
+      "institution": "University of Notre Dame",
+      "category": "Fellowship"
+    },
+    {
+      "title": "Dean's Honor List",
+      "details": "2nd and 4th Year",
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "category": "Academic Honor"
+    },
+    {
+      "title": "University Technical Scholarship",
+      "institution": "BUET",
+      "category": "Scholarship"
+    },
+    {
+      "title": "University Stipend",
+      "institution": "BUET",
+      "category": "Stipend"
+    },
+    {
+      "title": "The Daily Star Award for high achievers in A-levels",
+      "institution": "The Daily Star",
+      "category": "National Award"
+    },
+    {
+      "title": "The Daily Star Award for high achievers in O-levels",
+      "institution": "The Daily Star",
+      "category": "National Award"
+    }
+  ],
+  "cv": {
+    "title": "Curriculum Vitae",
+    "filename": "Siamul_Karim_Khan_Resume.pdf",
+    "download_url": "https://drive.google.com/file/d/1OmoqwWKMbPLhvifCektyCFDJQNe6lItl/view?usp=sharing",
+    "preview_embed_url": "https://drive.google.com/file/d/1OmoqwWKMbPLhvifCektyCFDJQNe6lItl/preview",
+    "google_drive_file_id": "1OmoqwWKMbPLhvifCektyCFDJQNe6lItl"
+  },
+  "volunteer": {
+    "sections": [
+      {
+        "title": "Bangladeshi Student Association of Notre Dame (BDSA-ND)",
+        "subtitle": "A glimpse of my time at Bangladeshi Student Association of Notre Dame (BDSA-ND)",
+        "photos": [
+          {
+            "src": "assets/img/volunteer/photo_01.jpg",
+            "alt": "BDSA-ND Activity Photo 1"
+          },
+          {
+            "src": "assets/img/volunteer/photo_02.jpg",
+            "alt": "BDSA-ND Activity Photo 2"
+          }
+        ]
+      },
+      {
+        "title": "Community Volunteering in Bangladesh",
+        "subtitle": "A glimpse of my community volunteering in my home country Bangladesh",
+        "photos": [
+          {
+            "src": "assets/img/volunteer/photo_03.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 1"
+          },
+          {
+            "src": "assets/img/volunteer/photo_04.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 2"
+          },
+          {
+            "src": "assets/img/volunteer/photo_05.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 3"
+          },
+          {
+            "src": "assets/img/volunteer/photo_06.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 4"
+          },
+          {
+            "src": "assets/img/volunteer/photo_07.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 5"
+          },
+          {
+            "src": "assets/img/volunteer/photo_08.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 6"
+          },
+          {
+            "src": "assets/img/volunteer/photo_09.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 7"
+          },
+          {
+            "src": "assets/img/volunteer/photo_10.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 8"
+          },
+          {
+            "src": "assets/img/volunteer/photo_11.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 9"
+          },
+          {
+            "src": "assets/img/volunteer/photo_12.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 10"
+          },
+          {
+            "src": "assets/img/volunteer/photo_13.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 11"
+          },
+          {
+            "src": "assets/img/volunteer/photo_14.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 12"
+          },
+          {
+            "src": "assets/img/volunteer/photo_15.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 13"
+          },
+          {
+            "src": "assets/img/volunteer/photo_16.jpg",
+            "alt": "Bangladesh Community Volunteering Photo 14"
+          }
+        ]
+      }
+    ]
+  },
+  "music": {
+    "bio": "I am a musicophile. I love playing my guitar or ukulele and singing.",
+    "youtube_channel_url": "https://www.youtube.com/channel/UClZJDQrYQcLBGUeK6Anq2uA",
+    "youtube_playlist_id": "PLylGZraUqGUYGIGAUxayykId_WeByqD8X",
+    "youtube_embed_url": "https://www.youtube.com/embed/videoseries?list=PLylGZraUqGUYGIGAUxayykId_WeByqD8X",
+    "soundcloud_profile_url": "https://soundcloud.com/siamul-karim-khan",
+    "soundcloud_user_id": "140904892",
+    "soundcloud_embed_url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/140904892&color=%235d5950&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+  }
+}

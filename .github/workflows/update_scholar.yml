@@ -1,0 +1,49 @@
+name: Update Google Scholar Publications & Citations
+
+on:
+  schedule:
+    # Run weekly every Sunday at 02:42 UTC (GH-ScholarBot standard schedule)
+    - cron: '42 2 * * 0'
+  workflow_dispatch: # Enable manual one-click trigger in GitHub Actions tab
+  push:
+    paths:
+      - 'scripts/scholar_crawler.py'
+      - 'scripts/publish_results.py'
+      - '.github/workflows/update_scholar.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-scholar-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Crawl Google Scholar Profile & Citations
+        run: |
+          python scripts/scholar_crawler.py
+
+      - name: Enforce Monotonic Freshness & Schema Gate
+        run: |
+          python scripts/publish_results.py
+
+      - name: Commit and push if citations or publications changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action [ScholarBot]"
+          if [ -n "$(git status --porcelain assets/data/)" ]; then
+            git add assets/data/
+            git commit -m "[ci] update google scholar citations and publications [skip ci]"
+            git push origin main
+          else
+            echo "No changes in Google Scholar citation metrics or publications."
+          fi
