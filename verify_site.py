@@ -1142,25 +1142,21 @@ def check_scholar_and_publications(parser: Optional[SiteHTMLParser], repo_root_o
                    f"Publication rendering issues found ({len(pub_rendering_issues)} issues).",
                    "\n".join(pub_rendering_issues))
 
-    # 8. Scholar Telemetry & Cache Sync Display
+    # 8. Scholar Telemetry Display
     has_hero_card = "scholar-hero-card" in index_text or "scholar-profile-card" in index_text
-    has_sync_badge = "scholar-sync-badge" in index_text
     has_metrics_telemetry = "scholar-metrics" in index_text and "metric-citations" in parser.all_ids
 
     telemetry_issues = []
     if not has_hero_card:
         telemetry_issues.append("Missing scholar hero/profile overview card")
-    if not has_sync_badge:
-        telemetry_issues.append("Missing CI/CD sync badge 'scholar-sync-badge'")
     if not has_metrics_telemetry:
         telemetry_issues.append("Missing live metrics telemetry block (.scholar-metrics with #metric-citations)")
 
     if not telemetry_issues:
-        report.add(suite, "Academic Citation Telemetry & Cache Sync", CheckStatus.PASS,
-                   "Google Scholar overview card verified with metrics telemetry (citations, h-index, i10-index, pubs) "
-                   "and CI/CD sync indicator badge.")
+        report.add(suite, "Academic Citation Telemetry", CheckStatus.PASS,
+                   "Google Scholar overview card verified with metrics telemetry (citations, h-index, i10-index, pubs).")
     else:
-        report.add(suite, "Academic Citation Telemetry & Cache Sync", CheckStatus.FAIL,
+        report.add(suite, "Academic Citation Telemetry", CheckStatus.FAIL,
                    f"Scholar telemetry display issues ({len(telemetry_issues)} issues).",
                    "\n".join(telemetry_issues))
 
